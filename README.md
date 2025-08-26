@@ -15,7 +15,7 @@ I’m a Computer Science post graduate having hands-on experience in full-stack 
 
 ## 👨‍💻 Backend  
 - 🌱 Python (Django)
-- 
+  
 ## 💬 Database & Tools  
 - 🌱 SQL, SQLite, Git, REST APIs
 
