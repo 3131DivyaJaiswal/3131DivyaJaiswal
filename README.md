@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Divya!
 
-<!--
-**3131DivyaJaiswal/3131DivyaJaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate and current MCA student with hands-on experience in full-stack development, AI/ML, and scalable software solutions. Passionate about building impactful projects, solving complex problems, and continuously learning emerging technologies.
+💡 *Almost everything is possible, it's just a matter of:*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌚ **Time** 💰 **Resources** ⭐ **Quality**
+
+💻 Tech Stack
+
+## 🎪 Frontend & FrameWorks
+- 🌱 HTML, CSS, JavaScript, FASTAPI
+- 🌱 Libraries: Bootstrap, React  
+
+## 👨‍💻 Backend  
+- 🌱 Python (Django)
+- 
+## 💬 Database & Tools  
+- 🌱 SQL, SQLite, Git, REST APIs
+
