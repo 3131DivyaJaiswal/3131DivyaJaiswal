@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
 
-I’m a Computer Science graduate and current MCA student with hands-on experience in full-stack development, AI/ML, and scalable software solutions. Passionate about building impactful projects, solving complex problems, and continuously learning emerging technologies.
+I’m a Computer Science post graduate having hands-on experience in full-stack development, AI/ML, and scalable software solutions. Passionate about building impactful projects, solving complex problems, and continuously learning emerging technologies.
 💡 *Almost everything is possible, it's just a matter of:*  
 
 ⌚ **Time** 💰 **Resources** ⭐ **Quality**
